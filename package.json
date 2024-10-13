@@ -23,6 +23,7 @@
     "jodit-react": "^4.0.9",
     "js-cookie": "^3.0.5",
     "jsonwebtoken": "^9.0.2",
+    "latest": "^0.2.0",
     "mongoose": "^7.6.3",
     "next": "^14.2.6",
     "nextjs-toploader": "^1.5.3",
@@ -31,7 +32,7 @@
     "react-dom": "^18.3.1",
     "react-hot-toast": "^2.4.1",
     "react-lottie": "^1.2.4",
-    "react-quill": "^2.0.0",
+    "react-quill": "^0.0.2",
     "reactstrap": "^9.2.2"
   },
   "devDependencies": {
