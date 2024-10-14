@@ -29,7 +29,7 @@ const Filter: React.FC = () => {
       title: "Development of Biodegradable Molded Sheets of Deoiled Rice Bran (DRB) Through Extrusion Technique",
       author: "Tanuja Srivastava",
       publishDate: "2024-06-30",
-      page: "v1i1p6",
+      page: "v1i1p1",
       volume: "Volume 1",
       issue: "Issue 1",
       readArticle: ""
